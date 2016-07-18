@@ -1,8 +1,9 @@
 # test1
 This is a test
 
-This is another line!
+I made this better! 
 
+<<<<<<< HEAD
 
 
 
@@ -12,3 +13,6 @@ This is another line!
 
 
 Maya is a unix wizard.
+=======
+Something
+>>>>>>> agordon/master
