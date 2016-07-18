@@ -3,7 +3,7 @@ This is a test
 
 I made this better! 
 
-<<<<<<< HEAD
+Something
 
 
 
@@ -13,6 +13,3 @@ I made this better!
 
 
 Maya is a unix wizard.
-=======
-Something
->>>>>>> agordon/master
